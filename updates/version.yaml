@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table enok_featuredprojects_projects'
+    - builder_table_create_enok_featuredprojects_projects.php
+1.0.3:
+    - 'Created table enok_featuredprojects_tools'
+    - builder_table_create_enok_featuredprojects_tools.php
+1.0.4:
+    - 'Updated table enok_featuredprojects_tools'
+    - builder_table_update_enok_featuredprojects_tools.php
+1.0.5:
+    - 'Drop table enok_featuredprojects_tools'
+    - builder_table_delete_enok_featuredprojects_tools.php
+1.0.6:
+    - 'Updated table enok_featuredprojects_projects'
+    - builder_table_update_enok_featuredprojects_projects.php
+1.0.7:
+    - 'Add image to table enok_featuredprojects_projects'
+    - builder_table_update_enok_featuredprojects_projects_2.php
