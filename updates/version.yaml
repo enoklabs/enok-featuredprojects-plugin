@@ -18,3 +18,9 @@
 1.0.7:
     - 'Add image to table enok_featuredprojects_projects'
     - builder_table_update_enok_featuredprojects_projects_2.php
+1.0.8:
+    - 'Updated table enok_featuredprojects_projects add featured_image'
+    - builder_table_update_enok_featuredprojects_projects_3.php
+1.0.9:
+    - 'Add roles to table enok_featuredprojects_projects'
+    - builder_table_update_enok_featuredprojects_projects_4.php
