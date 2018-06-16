@@ -1,6 +1,6 @@
 plugin:
-    name: 'enok.featuredprojects::lang.plugin.name'
-    description: 'enok.featuredprojects::lang.plugin.description'
+    name: Portfolio
+    description: 'Enok''s Portfolio'
     author: Enok
     icon: oc-icon-book
     homepage: ''
@@ -10,7 +10,7 @@ permissions:
         label: 'enok.featuredprojects::lang.project.manage_projects'
 navigation:
     featured_projects:
-        label: 'Featured Projects'
+        label: Portfolio
         url: enok/featuredprojects/projects
         icon: icon-book
         permissions:

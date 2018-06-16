@@ -24,3 +24,6 @@
 1.0.9:
     - 'Add roles to table enok_featuredprojects_projects'
     - builder_table_update_enok_featuredprojects_projects_4.php
+1.0.10:
+    - 'Updated table enok_featuredprojects_projects'
+    - builder_table_update_enok_featuredprojects_projects_5.php

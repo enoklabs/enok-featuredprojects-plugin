@@ -24,6 +24,10 @@ fields:
         oc.commentPosition: ''
         mode: file
         type: mediafinder
+    url:
+        label: url
+        span: auto
+        type: text
 tabs:
     fields:
         description:

@@ -8,3 +8,4 @@ create:
 update:
     redirect: enok/featuredprojects/projects
     redirectClose: enok/featuredprojects/projects
+preview: {  }
